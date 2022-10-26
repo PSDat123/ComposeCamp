@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="business_name">Phung Sieu Dat</string>
+    <string name="business_title">University Student</string>
+    <string name="business_phone">0901707953</string>
+    <string name="business_social">\@Dat2Phit</string>
+    <string name="business_email">sieudat123@gmail.com</string>
+</resources>
